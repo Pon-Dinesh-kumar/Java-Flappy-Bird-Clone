@@ -42,7 +42,7 @@ public class Endgame extends JPanel implements ActionListener, KeyListener {
         addKeyListener(this);
 
         // Load images
-        background = new ImageIcon(Objects.requireNonNull(getClass().getResource("./l15.gif"))).getImage();
+        background = new ImageIcon(Objects.requireNonNull(getClass().getResource("./loc2.png"))).getImage();
         Image heroImage = new ImageIcon(Objects.requireNonNull(getClass().getResource("/thor.gif"))).getImage();
         Image heroOnClick = new ImageIcon(Objects.requireNonNull(getClass().getResource("/thorClick.gif"))).getImage();
         upperEnemyImage = new ImageIcon(Objects.requireNonNull(getClass().getResource("/upperEnemy.png"))).getImage();
