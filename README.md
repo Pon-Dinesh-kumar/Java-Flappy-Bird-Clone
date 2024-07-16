@@ -1,5 +1,11 @@
 # Endgame - A Marvel-Themed Flappy Bird Clone 🚀
 
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/Pon-Dinesh-kumar/Java-Flappy-Bird-Clone/blob/master/src/main/resources/SS/Screenshot%202024-07-16%20163413.png" width="45%" style="margin-right: 5px;">
+    <img src="https://github.com/Pon-Dinesh-kumar/Java-Flappy-Bird-Clone/blob/master/src/main/resources/SS/Screenshot%202024-07-16%20164743.png" width="45%" style="margin-left: 5px;">
+</div>
+
+
 Welcome to **Endgame**! This project is a fun twist on the classic Flappy Bird game, featuring Marvel characters, stunning backgrounds, and exciting gameplay. Dive into this guide to learn how to clone, build, and play the game, as well as explore future upgrades and implementation ideas.
 
 ## Table of Contents
@@ -398,9 +404,10 @@ Welcome to **Endgame**! This project is a fun twist on the classic Flappy Bird g
     - Reduce the time interval for spawning new enemies.
 
 ## Screenshots
-- **Main Menu**: ![Main Menu](#)
-- **Gameplay**: ![Gameplay](#)
-- **Game Over**: ![Game Over](#)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/Pon-Dinesh-kumar/Java-Flappy-Bird-Clone/blob/master/src/main/resources/SS/Screenshot%202024-07-16%20162718.png?raw=true" width="45%" style="margin-right: 5px;">
+    <img src="https://github.com/Pon-Dinesh-kumar/Java-Flappy-Bird-Clone/blob/master/src/main/resources/SS/Screenshot%202024-07-16%20163237.png" width="45%" style="margin-left: 5px;">
+</div>
 
 ## Conclusion
 Enjoy playing **Endgame**! Feel free to contribute by implementing new features or improving the existing ones. Your feedback and contributions are highly appreciated! 🎮🦸‍♂️
