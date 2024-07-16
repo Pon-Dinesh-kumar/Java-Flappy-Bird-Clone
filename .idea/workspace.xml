@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafd3f6f-48ae-431c-aa79-d33161e9f4c1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Endgame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Endgame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SS/Screenshot 2024-07-16 162718.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SS/Screenshot 2024-07-16 162718.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SS/Screenshot 2024-07-16 163012.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SS/Screenshot 2024-07-16 163012.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SS/Screenshot 2024-07-16 163139.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SS/Screenshot 2024-07-16 163139.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SS/Screenshot 2024-07-16 163237.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SS/Screenshot 2024-07-16 163237.png" afterDir="false" />
-    </list>
+    <list default="true" id="dafd3f6f-48ae-431c-aa79-d33161e9f4c1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
